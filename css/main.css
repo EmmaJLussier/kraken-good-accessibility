@@ -25,12 +25,12 @@ img {
 
 header {
   background-image: url("../images/anchors.svg");
-  background-color: #000;
   color: #fff;
   font-size: 1.125rem;
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
+  background-color: #1e7c74;
 }
 
 header strong,
@@ -175,5 +175,5 @@ footer div {
   padding: 1rem;
   background-image: url("../images/anchors.svg");
   color: #fff;
-  background-color: #000;
+  background-color: #1e7c74;
 }
