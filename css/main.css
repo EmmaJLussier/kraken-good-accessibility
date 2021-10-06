@@ -157,6 +157,10 @@ figcaption {
   text-align: center;
 }
 
+footer {
+  background-color: #259f95;
+}
+
 article footer {
   background-color: #259f95;
   background-image: none;
@@ -175,5 +179,4 @@ footer div {
   padding: 1rem;
   background-image: url("../images/anchors.svg");
   color: #fff;
-  background-color: #1e7c74;
 }
