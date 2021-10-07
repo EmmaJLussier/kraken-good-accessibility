@@ -160,7 +160,7 @@ article footer {
   color: #fff;
 }
 
-footer div {
+footer {
   display: flex;
   justify-content: center;
   padding: 1rem;
